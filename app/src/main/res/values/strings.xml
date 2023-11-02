@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JustCodeHW4</string>
+    <string name="smartr">Smartr</string>
+    <string name="portal">SmartRecruiters candidate portal is now Smartr.</string>
+    <string name="login">Enter the same login info used for your SmartrProfile</string>
+    <string name="save">If login details were saved, you may need to re-save.</string>
+    <string name="marketing">Why Smartr? Read here</string>
+    <string name="started">Get started</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
