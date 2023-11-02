@@ -8,4 +8,19 @@
     <string name="started">Get started</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Jobs Name-->
+    <string name="Mobile_Developer_Senior"> Senior Mobile Developer</string>
+    <string name="Mobile_Developer_Junior"> Junior Mobile Developer</string>
+    <string name="Mobile_Developer"> Senior Mobile Developer</string>
+    <string name="Web_Developer">Web Developer</string>
+    <string name="Database_Administrator">Database Administrator</string>
+    <string name="Systems_Analyst">Systems Analyst</string>
+    <string name="UX_developer">UX developer</string>
+    <string name="Machine_Learning_Engineer">Machine Learning Engineer</string>
+    <string name="Backend_developer">Backend developer</string>
+    <string name="Front_end_Developer">Front end Developer</string>
+
+
+
 </resources>

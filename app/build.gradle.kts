@@ -5,13 +5,14 @@ plugins {
 
 android {
     namespace = "kz.course.justcodehw4"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "kz.course.justcodehw4"
-        minSdk = 24
+        minSdk = 21
         targetSdk = 33
         versionCode = 1
+        multiDexEnabled = true
         versionName = "1.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
