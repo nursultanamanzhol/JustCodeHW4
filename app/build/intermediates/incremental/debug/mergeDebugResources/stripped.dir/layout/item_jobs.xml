@@ -10,7 +10,6 @@
         android:layout_width="match_parent"
         app:layout_constraintTop_toTopOf="parent"
         android:padding="15dp"
-        android:layout_margin="15dp"
         android:background="@drawable/background_for_rv"
         android:layout_height="wrap_content">
 

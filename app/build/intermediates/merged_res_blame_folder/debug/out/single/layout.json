@@ -1,15 +1,27 @@
 [
     {
-        "merged": "kz.course.justcodehw4.app-mergeDebugResources-46:/layout/fragment_main.xml",
-        "source": "kz.course.justcodehw4.app-main-49:/layout/fragment_main.xml"
-    },
-    {
         "merged": "kz.course.justcodehw4.app-mergeDebugResources-46:/layout/item_jobs.xml",
         "source": "kz.course.justcodehw4.app-main-49:/layout/item_jobs.xml"
     },
     {
-        "merged": "kz.course.justcodehw4.app-mergeDebugResources-46:/layout/activity_main.xml",
-        "source": "kz.course.justcodehw4.app-main-49:/layout/activity_main.xml"
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-mergeDebugResources-46:\\layout\\item_jobs.xml",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-main-49:\\layout\\item_jobs.xml"
+    },
+    {
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-mergeDebugResources-46:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-main-49:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-mergeDebugResources-46:\\layout\\fragment_archive.xml",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-main-49:\\layout\\fragment_archive.xml"
+    },
+    {
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-mergeDebugResources-46:\\layout\\fragment_main.xml",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-main-49:\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-mergeDebugResources-46:\\layout\\item_title_view.xml",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-main-49:\\layout\\item_title_view.xml"
     },
     {
         "merged": "kz.course.justcodehw4.app-mergeDebugResources-46:/layout/fragment_archive.xml",
