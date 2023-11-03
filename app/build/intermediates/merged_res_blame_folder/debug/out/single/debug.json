@@ -1,150 +1,158 @@
 [
     {
-        "merged": "kz.course.justcodehw4.app-merged_res-47:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "kz.course.justcodehw4.app-main-49:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-merged_res-47:\\drawable_icon_2.xml.flat",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-main-49:\\drawable\\icon_2.xml"
     },
     {
-        "merged": "kz.course.justcodehw4.app-merged_res-47:/drawable-hdpi_ic_launcher_foreground.png.flat",
-        "source": "kz.course.justcodehw4.app-pngs-43:/drawable-hdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-merged_res-47:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-main-49:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "kz.course.justcodehw4.app-merged_res-47:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "kz.course.justcodehw4.app-main-49:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-merged_res-47:\\drawable_img_logo_for_jobs.png.flat",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-main-49:\\drawable\\img_logo_for_jobs.png"
     },
     {
-        "merged": "kz.course.justcodehw4.app-merged_res-47:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "kz.course.justcodehw4.app-main-49:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-merged_res-47:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-main-49:\\layout\\activity_main.xml"
     },
     {
-        "merged": "kz.course.justcodehw4.app-merged_res-47:/layout_fragment_main.xml.flat",
-        "source": "kz.course.justcodehw4.app-main-49:/layout/fragment_main.xml"
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-merged_res-47:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-main-49:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "kz.course.justcodehw4.app-merged_res-47:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "kz.course.justcodehw4.app-main-49:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-merged_res-47:\\drawable_avatar.png.flat",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-main-49:\\drawable\\avatar.png"
     },
     {
-        "merged": "kz.course.justcodehw4.app-merged_res-47:/drawable_background_for_main_page.xml.flat",
-        "source": "kz.course.justcodehw4.app-main-49:/drawable/background_for_main_page.xml"
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-merged_res-47:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-main-49:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "kz.course.justcodehw4.app-merged_res-47:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "kz.course.justcodehw4.app-main-49:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-merged_res-47:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-main-49:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "kz.course.justcodehw4.app-merged_res-47:/drawable-mdpi_ic_launcher_foreground.png.flat",
-        "source": "kz.course.justcodehw4.app-pngs-43:/drawable-mdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-merged_res-47:\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-pngs-43:\\drawable-hdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "kz.course.justcodehw4.app-merged_res-47:/drawable-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "kz.course.justcodehw4.app-pngs-43:/drawable-xxhdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-merged_res-47:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-main-49:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "kz.course.justcodehw4.app-merged_res-47:/drawable_icon_3.xml.flat",
-        "source": "kz.course.justcodehw4.app-main-49:/drawable/icon_3.xml"
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-merged_res-47:\\layout_fragment_main.xml.flat",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-main-49:\\layout\\fragment_main.xml"
     },
     {
-        "merged": "kz.course.justcodehw4.app-merged_res-47:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "kz.course.justcodehw4.app-main-49:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-merged_res-47:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-main-49:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "kz.course.justcodehw4.app-merged_res-47:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "kz.course.justcodehw4.app-main-49:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-merged_res-47:\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-pngs-43:\\drawable-xxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "kz.course.justcodehw4.app-merged_res-47:/drawable_background_for_rv.xml.flat",
-        "source": "kz.course.justcodehw4.app-main-49:/drawable/background_for_rv.xml"
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-merged_res-47:\\drawable_background_for_rv.xml.flat",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-main-49:\\drawable\\background_for_rv.xml"
     },
     {
-        "merged": "kz.course.justcodehw4.app-merged_res-47:/drawable_img_logo_for_jobs.png.flat",
-        "source": "kz.course.justcodehw4.app-main-49:/drawable/img_logo_for_jobs.png"
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-merged_res-47:\\layout_fragment_archive.xml.flat",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-main-49:\\layout\\fragment_archive.xml"
     },
     {
-        "merged": "kz.course.justcodehw4.app-merged_res-47:/drawable_icon_notification.xml.flat",
-        "source": "kz.course.justcodehw4.app-main-49:/drawable/icon_notification.xml"
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-merged_res-47:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-main-49:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "kz.course.justcodehw4.app-merged_res-47:/drawable_icon_1.xml.flat",
-        "source": "kz.course.justcodehw4.app-main-49:/drawable/icon_1.xml"
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-merged_res-47:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-main-49:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "kz.course.justcodehw4.app-merged_res-47:/drawable-ldpi_ic_launcher_foreground.png.flat",
-        "source": "kz.course.justcodehw4.app-pngs-43:/drawable-ldpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-merged_res-47:\\layout_item_title_view.xml.flat",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-main-49:\\layout\\item_title_view.xml"
     },
     {
-        "merged": "kz.course.justcodehw4.app-merged_res-47:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "kz.course.justcodehw4.app-main-49:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-merged_res-47:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-pngs-43:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "kz.course.justcodehw4.app-merged_res-47:/layout_activity_main.xml.flat",
-        "source": "kz.course.justcodehw4.app-main-49:/layout/activity_main.xml"
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-merged_res-47:\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-pngs-43:\\drawable-mdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "kz.course.justcodehw4.app-merged_res-47:/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "kz.course.justcodehw4.app-pngs-43:/drawable-xxxhdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-merged_res-47:\\layout_item_jobs.xml.flat",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-main-49:\\layout\\item_jobs.xml"
     },
     {
-        "merged": "kz.course.justcodehw4.app-merged_res-47:/drawable_background_for_btns.xml.flat",
-        "source": "kz.course.justcodehw4.app-main-49:/drawable/background_for_btns.xml"
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-merged_res-47:\\drawable_icon_notification.xml.flat",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-main-49:\\drawable\\icon_notification.xml"
     },
     {
-        "merged": "kz.course.justcodehw4.app-merged_res-47:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "kz.course.justcodehw4.app-main-49:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-merged_res-47:\\drawable_icon_1.xml.flat",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-main-49:\\drawable\\icon_1.xml"
     },
     {
-        "merged": "kz.course.justcodehw4.app-merged_res-47:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "kz.course.justcodehw4.app-main-49:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-merged_res-47:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-main-49:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "kz.course.justcodehw4.app-merged_res-47:/drawable_ic_launcher_background.xml.flat",
-        "source": "kz.course.justcodehw4.app-main-49:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-merged_res-47:\\drawable_icon_3.xml.flat",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-main-49:\\drawable\\icon_3.xml"
     },
     {
-        "merged": "kz.course.justcodehw4.app-merged_res-47:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "kz.course.justcodehw4.app-pngs-43:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-merged_res-47:\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-pngs-43:\\drawable-xhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "kz.course.justcodehw4.app-merged_res-47:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "kz.course.justcodehw4.app-main-49:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-merged_res-47:\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-pngs-43:\\drawable-ldpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "kz.course.justcodehw4.app-merged_res-47:/navigation_nav_graph.xml.flat",
-        "source": "kz.course.justcodehw4.app-main-49:/navigation/nav_graph.xml"
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-merged_res-47:\\drawable_background_for_btns.xml.flat",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-main-49:\\drawable\\background_for_btns.xml"
     },
     {
-        "merged": "kz.course.justcodehw4.app-merged_res-47:/drawable-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "kz.course.justcodehw4.app-pngs-43:/drawable-xhdpi/ic_launcher_foreground.png"
+        "merged": "kz.course.justcodehw4.app-merged_res-47:/layout_item_title_view.xml.flat",
+        "source": "kz.course.justcodehw4.app-main-49:/layout/item_title_view.xml"
     },
     {
-        "merged": "kz.course.justcodehw4.app-merged_res-47:/layout_item_jobs.xml.flat",
-        "source": "kz.course.justcodehw4.app-main-49:/layout/item_jobs.xml"
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-merged_res-47:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-main-49:\\navigation\\nav_graph.xml"
     },
     {
-        "merged": "kz.course.justcodehw4.app-merged_res-47:/xml_backup_rules.xml.flat",
-        "source": "kz.course.justcodehw4.app-main-49:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-merged_res-47:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-main-49:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "kz.course.justcodehw4.app-merged_res-47:/layout_fragment_archive.xml.flat",
-        "source": "kz.course.justcodehw4.app-main-49:/layout/fragment_archive.xml"
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-merged_res-47:\\drawable_background_for_main_page.xml.flat",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-main-49:\\drawable\\background_for_main_page.xml"
     },
     {
-        "merged": "kz.course.justcodehw4.app-merged_res-47:/drawable_login.png.flat",
-        "source": "kz.course.justcodehw4.app-main-49:/drawable/login.png"
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-merged_res-47:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-main-49:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "kz.course.justcodehw4.app-merged_res-47:/drawable_avatar.png.flat",
-        "source": "kz.course.justcodehw4.app-main-49:/drawable/avatar.png"
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-merged_res-47:\\drawable_login.png.flat",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-main-49:\\drawable\\login.png"
     },
     {
-        "merged": "kz.course.justcodehw4.app-merged_res-47:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "kz.course.justcodehw4.app-main-49:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-merged_res-47:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-main-49:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "kz.course.justcodehw4.app-merged_res-47:/drawable_icon_2.xml.flat",
-        "source": "kz.course.justcodehw4.app-main-49:/drawable/icon_2.xml"
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-merged_res-47:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-main-49:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "kz.course.justcodehw4.app-merged_res-47:/xml_data_extraction_rules.xml.flat",
-        "source": "kz.course.justcodehw4.app-main-49:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-merged_res-47:\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-pngs-43:\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-merged_res-47:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-main-49:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-merged_res-47:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\nursu\\.gradle\\daemon\\8.0\\kz.course.justcodehw4.app-main-49:\\mipmap-hdpi\\ic_launcher_round.webp"
     }
 ]

@@ -9,13 +9,23 @@ object JobsListMaker {
         R.string.Mobile_Developer,
         R.string.Mobile_Developer_Junior,
         R.string.Mobile_Developer_Senior,
+        R.string.Web_Developer_Senior,
+        R.string.Web_Developer_Junior,
         R.string.Web_Developer,
+        R.string.Database_Administrator_Senior,
+        R.string.Database_Administrator_Junior,
         R.string.Database_Administrator,
         R.string.Systems_Analyst,
+        R.string.UX_developer_Senior,
+        R.string.UX_developer_Junior,
         R.string.UX_developer,
         R.string.Machine_Learning_Engineer,
+        R.string.Backend_developer_Senior,
+        R.string.Backend_developer_Junior,
         R.string.Backend_developer,
-        R.string.Front_end_Developer,
+        R.string.Front_end_Developer_Senior,
+        R.string.Front_end_Developer_Junior,
+        R.string.Front_end_Developer
     )
 
 
